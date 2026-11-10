@@ -1,0 +1,17 @@
+{
+  "files": [
+    {
+      "path": "content/home.json",
+      "label": "Home"
+    }
+  ],
+  "media": {
+    "publicDir": "public",
+    "uploadDir": "public/uploads",
+    "maxImageSize": 2400,
+    "imageQuality": 0.82
+  },
+  "hiddenKeys": [],
+  "labels": {},
+  "fields": {}
+}
